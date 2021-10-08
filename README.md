@@ -13,3 +13,7 @@ With this small project i make my first steps into prototyping and pcb-design, u
 
 Optional:
 - BME/P 280 1x
+
+## Images
+![pcb](https://raw.githubusercontent.com/Manu00/esp8266-sensorboard/main/images/pcb_v0.1.svg?sanitize=true)
+![schematic](https://raw.githubusercontent.com/Manu00/esp8266-sensorboard/main/images/schematic.svg?sanitize=true)
