@@ -17,3 +17,11 @@ Optional:
 ## Images
 ![pcb](https://raw.githubusercontent.com/Manu00/esp8266-sensorboard/main/images/pcb_v0.1.svg?sanitize=true)
 ![schematic](https://raw.githubusercontent.com/Manu00/esp8266-sensorboard/main/images/schematic.svg?sanitize=true)
+
+### PCBs arrived
+![schematic](https://raw.githubusercontent.com/Manu00/esp8266-sensorboard/main/images/board-without.jpg?sanitize=true)
+raw pcb without components
+<br/>
+<br/>
+![schematic](https://raw.githubusercontent.com/Manu00/esp8266-sensorboard/main/images/board-with.jpg?sanitize=true)
+sadly the capacitors didn't arrive at time but i can still use it with 3.3v
